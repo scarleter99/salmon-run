@@ -1,2 +1,2 @@
 # salmon-run
-## Only for PC
+- Only for PC
